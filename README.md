@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👩🏻‍💻 Pedro Barbancho
 
-<!--
-**Pedrobarbancho/Pedrobarbancho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedora Cibersistemas`**
 
-Here are some ideas to get you started:
+Sou aluno do SENAI Guarulhos, cursando o último ano do ensino médio técnico em Cibersistemas. Tenho foco principal em desenvolvimento com **Python** e manipulação de dados com **SQL**. Durante minha formação, também adquiri uma base teórica em automação industrial, tendo contato com sistemas de **CLP** e fundamentos de **robótica industrial**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="45px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+<br/>
+<br/>
