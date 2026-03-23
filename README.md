@@ -35,13 +35,13 @@
 
 <div align="left">
   <a href="https://www.instagram.com/pedrobarbancho13/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="35" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="49" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/pedro-arthur-barbancho-santos-a360a2380/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/users/1025850678465269841" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="35" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="49" height="40" alt="discord logo"  />
   </a>
 </div>
 
@@ -55,11 +55,7 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedrobarbancho/Pedrobarbancho/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedrobarbancho/Pedrobarbancho/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pedrobarbancho/Pedrobarbancho/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Pedrobarbancho/Pedrobarbancho/output/snake.svg" alt="Snake animation" />
 
 ###
 
