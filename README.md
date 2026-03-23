@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Pedro Barbancho
+# 💻 Pedro Barbancho
 
 **`Desenvolvedora Cibersistemas`**
 
