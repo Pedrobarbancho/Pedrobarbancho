@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Olá 👋! Meu nome é Lazy e sou estudante de Cibersistemas, de Guarulhos.</h2>
 
 ###
 
