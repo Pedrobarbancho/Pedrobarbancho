@@ -1,8 +1,12 @@
-<img align="left" height="90" src="https://media.tenor.com/syr0thZvyWQAAAAM/ryo-ryo-yamada.gif"  />
+<img align="left" height="100" src="https://i.pinimg.com/564x/77/34/08/773408480576390e08e87b4c362dea5b.jpg"  />
 
 ###
 
-<h2 align="left">Olá 👋! Meu nome é Lazy e sou estudante de Cibersistemas, de Guarulhos</h2>
+<h3 align="left">Olá 👋! Meu nome é Lazy e sou estudante de Cibersistemas, de Guarulhos</h3>
+
+###
+
+<h2 align="left"></h2>
 
 ###
 
@@ -15,7 +19,7 @@
 
 ###
 
-<img align="right" height="150" src="https://memeprod.ap-south-1.linodeobjects.com/user-maker/a94c1187d586e3a32074b9c0078ad226.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/syr0thZvyWQAAAAM/ryo-ryo-yamada.gif"  />
 
 ###
 
@@ -45,10 +49,20 @@
 
 <br clear="both">
 
+<h2 align="left"></h2>
+
+###
+
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedrobarbancho/Pedrobarbancho/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedrobarbancho/Pedrobarbancho/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pedrobarbancho/Pedrobarbancho/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<h2 align="left"></h2>
 
 ###
