@@ -1,22 +1,15 @@
-<!--
-  COMO USAR
-  1. Crie um repositório PÚBLICO com o MESMO nome do seu usuário: Pedrobarbancho/Pedrobarbancho
-  2. Cole este arquivo como README.md na raiz.
-  3. TEMA DE COR (o "estilo Discord"): a cor principal é 4F8CFF (azul) e a de destaque é FFD23F (amarelo).
-     Para mudar o perfil inteiro, use Ctrl+H e troque essas duas strings por outro par de cores hex (sem #).
--->
 
 <!-- ============ CABEÇALHO ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=4F8CFF,1a1f3a,0d1117&text=Pedro%20%22Lazy%22%20Barbancho&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Cibersistemas%20para%20Automa%C3%A7%C3%A3o%20%E2%80%A2%20Python%20%E2%80%A2%20IoT%20%E2%80%A2%20IA&descAlignY=58&descSize=16" alt="Cabeçalho" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=4F8CFF,1a1f3a,0d1117&text=Pedro%20%22Lazy%22%20Barbancho&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Cibersistemas%20para%20Automa%C3%A7%C3%A3o%20%E2%80%A2%20Redes%20%E2%80%A2%20Dados%20%E2%80%A2%20Python&descAlignY=58&descSize=16" alt="Cabeçalho" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=4F8CFF&center=true&vCenter=true&width=560&lines=Automatizando+coisas+para+n%C3%A3o+ter+que+fazer+de+novo;Python+%2B+IoT+%2B+IA;Estudante+de+Cibersistemas+%7C+Guarulhos%2C+SP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=4F8CFF&center=true&vCenter=true&width=560&lines=Automatizando+coisas+para+n%C3%A3o+ter+que+fazer+de+novo;Redes+%7C+Dados+%7C+Automa%C3%A7%C3%A3o;Estudante+de+Cibersistemas+%7C+Guarulhos%2C+SP" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/SENAI-Cibersistemas-4F8CFF?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Foco-Python%20%2B%20IA-FFD23F?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Foco-Redes%20%C2%B7%20Dados-FFD23F?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Status-Aprendendo%20em%20p%C3%BAblico-4F8CFF?style=for-the-badge&labelColor=0d1117" />
 
 </div>
@@ -28,7 +21,7 @@
 
 Estudante de **Cibersistemas para Automação** no SENAI, em Guarulhos. Gosto de ver o software conversar com o mundo físico: sensor, microcontrolador, API, banco de dados, dashboard.
 
-Meu plano é construir, com um amigo, uma empresa de software focada em vender para empresas. Minha parte: **Python e IA**.
+Estou construindo minha base em **redes** e **dados (SQL + Python)**, e explorando **automação industrial (CLP)**. Meu objetivo é trabalhar na área de tecnologia e crescer nela.
 
 <!-- Se quiser uma imagem/GIF ao lado do texto, use <img>, NÃO vídeo (vídeo vira aquele player cinza e quebra o layout):
 <img align="right" width="180" src="URL_DO_SEU_GIF.gif" />
@@ -41,7 +34,7 @@ Meu plano é construir, com um amigo, uma empresa de software focada em vender p
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,mysql,cpp,arduino,html,css,git,github,linux,vscode&theme=dark" alt="Stack" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,mysql,cpp,arduino,git,github,linux,vscode&theme=dark" alt="Stack" />
 
 </div>
 
@@ -76,7 +69,7 @@ Projeto de escola concluído e apresentado no SENAI.
 | Hardware | ESP8266 (Arduino C++) |
 | Backend | FastAPI (Python) |
 | Dados | MySQL / Google Sheets |
-| Frontend | Dashboard em HTML |
+| Frontend | Dashboard em HTML (feito com ajuda de IA; estou aprendendo o básico de front-end) |
 | Segurança | Senhas com bcrypt, controle de acesso por perfil (RBAC) |
 
 <!-- Quando o repo estiver público e com README bom, linke aqui:
@@ -89,10 +82,15 @@ Adicione 1 print ou GIF do dashboard funcionando. Isso vale mais que qualquer ba
 <!-- ============ ESTUDANDO ============ -->
 ## `> em andamento`
 
-- 🐍 Backend com Python (FastAPI, bancos de dados)
-- 🤖 Fundamentos de IA aplicada a problemas reais
-- 🔌 IoT (sensores, comunicação com APIs)
+**Foco**
 - 🌐 Redes Cisco: aprofundando OSPF e comandos de configuração
+- 🗄️ SQL e Python para análise de dados
+- 📊 Curso de análise de dados com IA (em andamento)
+
+**Explorando**
+- 🏭 CLP e automação industrial
+- 🧱 Básico de HTML/CSS, para entender o que meu próprio projeto faz
+- 🔌 IoT (sensores, comunicação com APIs)
 
 <br/>
 
